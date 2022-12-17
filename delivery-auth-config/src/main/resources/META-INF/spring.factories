@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.delivery.auth.config.security.SecurityConfig, com.delivery.auth.config.ApplicationConfig

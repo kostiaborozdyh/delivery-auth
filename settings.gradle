@@ -1,1 +1,4 @@
 rootProject.name = 'delivery-auth'
+include 'delivery-auth-config'
+include 'delivery-auth-server'
+
