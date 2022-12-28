@@ -1,0 +1,4 @@
+app:
+  tokenSecret: 926D96C90030DD58429D2751AC1BDBBC
+  tokenExpirationMsec: 1800000 # = 30min
+  tokenRefreshExpirationMsec: 2700000 # = 45min
